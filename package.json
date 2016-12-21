@@ -1,0 +1,25 @@
+{
+  "name": "bejeweled",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steambap/bejeweled.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steambap/bejeweled/issues"
+  },
+  "homepage": "https://github.com/steambap/bejeweled#readme",
+  "devDependencies": {
+    "electron": "^1.4.13",
+    "phaser-ce": "^2.7.2"
+  }
+}
